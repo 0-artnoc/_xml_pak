@@ -7,21 +7,13 @@ What vendors are supported?
 HTC, OnePlus, Essential, Asus, Nokia/HMD Global, Google (lens, dialer, launcher, Daydream, maybe something else), Motorola, BlackBerry, Nextbit, BQ, Sony, Samsung, Cyanogen, Razer, NVIDIA, Acer.
 ## Changelog
 2.6: initial version for repo
-
 2.7: few xmls updated, what else?
-
 2.8: readded BQ Camera support
-
 2.9: add Pixel 3 goodies
-
 3.0: add Razer Phone 2 xml
-
 3.1: possibly added ARCore apps support
-
 3.2: update main Samsung xml
-
 3.3: add self-made Pixel 3a feature xml
-
 3.4: update the template
 ## Requirements
 - possibly none
